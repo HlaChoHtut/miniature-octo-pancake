@@ -1,0 +1,7 @@
+Airlines => Myanmar National Airlines 
+PNR: 00IDE6
+Deadline: 12:00 PM
+Fare: 120000 MMK 
+Base Fare: 180000 MMK
+=======================================
+
