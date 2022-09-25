@@ -4,4 +4,5 @@ Deadline: 12:00 PM
 Fare: 120000 MMK 
 Base Fare: 180000 MMK
 =======================================
-
+TAX: 63000 MMK 
+TAX: 61000 MMK
