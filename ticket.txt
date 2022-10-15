@@ -1,10 +1,3 @@
-Airlines => Myanmar National Airlines 
-PNR: 00IDE6
-Deadline: 12:00 PM
-Fare: 120000 MMK 
-Base Fare: 180000 MMK
-=======================================
-TAX: 63000 MMK 
-TAX: 61000 MMK
-
 MNA doesn't allow to book Fake Name in the system. 
+We can book at most 9 people in one booking.
+Name | Sector change is not allowed. Only Time and Date Change are allowed.
