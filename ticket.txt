@@ -6,3 +6,5 @@ Base Fare: 180000 MMK
 =======================================
 TAX: 63000 MMK 
 TAX: 61000 MMK
+
+MNA doesn't allow to book Fake Name in the system. 
